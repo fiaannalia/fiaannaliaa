@@ -15,6 +15,4 @@ hi, i'm [Annalia Alfia Rahma], an undergraduate student of Informatics. Passiona
 - 💼 any freelance work? do reach, [email](mailto:fiaannalia2833@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
-📈 my github stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=fiaannalia&show_icons=true" alt="fiaannalia" />
